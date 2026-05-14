@@ -19,6 +19,7 @@
 #include <config.h>
 #endif
 
+#include <sstream>
 #include "visa.h"
 #include <string>
 #include <boost/regex.hpp>
